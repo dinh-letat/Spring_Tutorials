@@ -1,4 +1,4 @@
-ECHO is on.
+
 # Spring_Tutorials 
 
 ## 1. Spring Rest
