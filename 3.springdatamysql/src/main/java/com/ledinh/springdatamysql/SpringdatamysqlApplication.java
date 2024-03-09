@@ -1,13 +1,13 @@
-package com.ledinh.springdatajpa;
+package com.ledinh.springdatamysql;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringdatajpaApplication {
+public class SpringdatamysqlApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringdatajpaApplication.class, args);
+		SpringApplication.run(SpringdatamysqlApplication.class, args);
 	}
 
 }

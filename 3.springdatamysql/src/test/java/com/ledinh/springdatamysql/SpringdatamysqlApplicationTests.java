@@ -1,10 +1,10 @@
-package com.ledinh.springdatajpa;
+package com.ledinh.springdatamysql;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringdatajpaApplicationTests {
+class SpringdatamysqlApplicationTests {
 
 	@Test
 	void contextLoads() {
